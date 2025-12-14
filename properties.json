@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "type": "house",
+    "price": 450000,
+    "bedrooms": 3,
+    "dateAdded": "2025-11-15",
+    "postcode": "BR1",
+    "address": "25 Oak Avenue, Bromley",
+    "description": "A beautiful family home with modern interiors and spacious living areas.",
+    "longDescription": "This stunning 3-bedroom house offers everything a growing family needs. The property features a large living room with bay windows, a modern fitted kitchen with integrated appliances, and a lovely garden perfect for children. Upstairs you'll find three generously sized bedrooms and a family bathroom. The property also benefits from off-street parking and is located close to excellent schools and transport links.",
+    "location": {
+      "lat": 51.4064,
+      "lng": 0.0156
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800",
+      "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=800",
+      "https://images.unsplash.com/photo-1615529182904-14819c35db37?w=800"
+    ],
+    "floorPlan": "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=800"
+  },
+  {
+    "id": 2,
+    "type": "flat",
+    "price": 275000,
+    "bedrooms": 2,
+    "dateAdded": "2025-12-01",
+    "postcode": "NW1",
+    "address": "Flat 12, Camden Heights, London",
+    "description": "Modern apartment in the heart of Camden with excellent transport links.",
+    "longDescription": "This contemporary 2-bedroom flat is perfect for young professionals or couples. Located in a secure building with lift access, the property features an open-plan living and kitchen area, two double bedrooms, and a sleek bathroom. The flat comes with allocated parking and is just minutes from Camden Town station. Local amenities, restaurants, and shops are all within walking distance.",
+    "location": {
+      "lat": 51.5392,
+      "lng": -0.1426
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+      "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=800",
+      "https://images.unsplash.com/photo-1560448204-444969e0fa41?w=800",
+      "https://images.unsplash.com/photo-1560449752-c0bc92a5a2e7?w=800",
+      "https://images.unsplash.com/photo-1560185007-5f0bb1866cab?w=800",
+      "https://images.unsplash.com/photo-1574643156929-51fa098b0394?w=800"
+    ],
+    "floorPlan": "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=800"
+  },
+  {
+    "id": 3,
+    "type": "house",
+    "price": 850000,
+    "bedrooms": 5,
+    "dateAdded": "2025-10-20",
+    "postcode": "SW19",
+    "address": "14 Wimbledon Park Road, Wimbledon",
+    "description": "Luxurious 5-bedroom detached house with private garden and garage.",
+    "longDescription": "An exceptional 5-bedroom detached property set in one of Wimbledon's most sought-after locations. This impressive home boasts a grand entrance hall, formal reception room, separate dining room, and a state-of-the-art kitchen/breakfast room. Four generous bedrooms on the first floor plus a master suite on the second floor with en-suite bathroom. The beautifully landscaped garden extends to approximately 100ft and includes a patio area perfect for entertaining. Double garage and driveway parking for multiple vehicles.",
+    "location": {
+      "lat": 51.4337,
+      "lng": -0.2080
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=800",
+      "https://images.unsplash.com/photo-1600573472591-ee6b68d14c68?w=800",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800",
+      "https://images.unsplash.com/photo-1600563438938-a9a27216b4f5?w=800"
+    ],
+    "floorPlan": "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=800"
+  },
+  {
+    "id": 4,
+    "type": "flat",
+    "price": 195000,
+    "bedrooms": 1,
+    "dateAdded": "2025-11-28",
+    "postcode": "E14",
+    "address": "Apartment 45, Canary Wharf, London",
+    "description": "Stylish one-bedroom flat with stunning river views and balcony.",
+    "longDescription": "This modern one-bedroom apartment offers the ultimate city living experience. Situated on the 12th floor of a prestigious development, the flat features floor-to-ceiling windows with breathtaking views of the Thames. The open-plan living space is perfect for entertaining, and the bedroom offers a peaceful retreat. The property includes access to a 24-hour concierge, gymnasium, and residents' lounge. Canary Wharf station is just a 5-minute walk away.",
+    "location": {
+      "lat": 51.5045,
+      "lng": -0.0195
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800",
+      "https://images.unsplash.com/photo-1502672260066-6bc35f0a1e1e?w=800",
+      "https://images.unsplash.com/photo-1502672023488-70e25813eb80?w=800",
+      "https://images.unsplash.com/photo-1564078516393-cf04bd966897?w=800",
+      "https://images.unsplash.com/photo-1556912173-46c336c7fd55?w=800",
+      "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=800"
+    ],
+    "floorPlan": "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=800"
+  },
+  {
+    "id": 5,
+    "type": "house",
+    "price": 320000,
+    "bedrooms": 2,
+    "dateAdded": "2025-12-10",
+    "postcode": "BR1",
+    "address": "78 Green Lane, Bromley",
+    "description": "Charming 2-bedroom cottage with period features and modern updates.",
+    "longDescription": "A delightful 2-bedroom cottage that successfully combines original character with contemporary comfort. This property features exposed beams, an inglenook fireplace, and original wooden flooring throughout. The modern kitchen has been sympathetically designed to complement the period features, and the bathroom has been recently refurbished. The rear garden is a real sun trap and includes a shed for storage. Ideal for first-time buyers or downsizers looking for character and charm.",
+    "location": {
+      "lat": 51.4023,
+      "lng": 0.0151
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1598228723793-52759bba239c?w=800",
+      "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=800",
+      "https://images.unsplash.com/photo-1599809275671-b5942cabc7a2?w=800",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=800",
+      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800"
+    ],
+    "floorPlan": "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=800"
+  },
+  {
+    "id": 6,
+    "type": "flat",
+    "price": 425000,
+    "bedrooms": 3,
+    "dateAdded": "2025-11-05",
+    "postcode": "SW19",
+    "address": "The Pavilions, Wimbledon Village",
+    "description": "Spacious 3-bedroom penthouse with roof terrace and parking.",
+    "longDescription": "An outstanding 3-bedroom penthouse apartment situated in the prestigious Wimbledon Village. This exceptional property spans the entire top floor and features a large reception room with vaulted ceilings, a designer kitchen with premium appliances, three double bedrooms including a master with en-suite, and a luxurious family bathroom. The crowning glory is the private roof terrace offering panoramic views across South London. The property comes with two allocated parking spaces and residents have access to a private garden. Perfectly positioned for the shops, restaurants and cafes of Wimbledon Village.",
+    "location": {
+      "lat": 51.4342,
+      "lng": -0.2085
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1567767292278-a4f21aa2d36e?w=800",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=800",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1600573472591-ee6b68d14c68?w=800",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800"
+    ],
+    "floorPlan": "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=800"
+  },
+  {
+    "id": 7,
+    "type": "house",
+    "price": 625000,
+    "bedrooms": 4,
+    "dateAdded": "2025-11-22",
+    "postcode": "NW1",
+    "address": "52 Regent's Park Terrace, Camden",
+    "description": "Victorian townhouse with original features and contemporary extension.",
+    "longDescription": "A beautifully presented 4-bedroom Victorian townhouse that has been thoughtfully extended and refurbished to create a wonderful family home. The ground floor features a formal sitting room with original bay window and ornate ceiling rose, plus a spectacular open-plan kitchen/dining area with bi-fold doors opening onto a landscaped garden. Upstairs are four well-proportioned bedrooms and two bathrooms, including a master suite. The property retains many period features including sash windows, picture rails, and original fireplaces, while benefiting from modern comforts such as underfloor heating and smart home technology. Located moments from Regent's Park and excellent schools.",
+    "location": {
+      "lat": 51.5405,
+      "lng": -0.1438
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?w=800",
+      "https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800",
+      "https://images.unsplash.com/photo-1600573472605-c4ce09c41ff0?w=800",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800"
+    ],
+    "floorPlan": "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=800"
+  }
+]
