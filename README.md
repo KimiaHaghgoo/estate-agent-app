@@ -157,20 +157,20 @@ Tested and working on:
 
 This project meets all requirements for the Advanced Client-Side Web Development coursework:
 
-- ✅ 7 diverse properties in JSON format
-- ✅ React UI widgets on all form elements
-- ✅ Multi-criteria search functionality
-- ✅ Effective results display
-- ✅ Image gallery (6-8 images per property)
-- ✅ Tabbed property details
-- ✅ Add to favourites (button + drag/drop)
-- ✅ Remove from favourites (button + drag out)
-- ✅ Favourites list display
-- ✅ Responsive design with media queries
-- ✅ Professional aesthetics
-- ✅ Client-side security (CSP)
-- ✅ Code quality and comments
-- ✅ JEST testing suite (9 tests)
+- 7 diverse properties in JSON format
+- React UI widgets on all form elements
+- Multi-criteria search functionality
+- Effective results display
+- Image gallery (6-8 images per property)
+- Tabbed property details
+- Add to favourites (button + drag/drop)
+- Remove from favourites (button + drag out)
+- Favourites list display
+- Responsive design with media queries
+- Professional aesthetics
+- Client-side security (CSP)
+- Code quality and comments
+- JEST testing suite (9 tests)
 
 ## Known Limitations
 
